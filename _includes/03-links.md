@@ -1,1 +1,1 @@
-[GItHub] https://github.com/ericr99
+[GitHub] https://github.com/ericr99
